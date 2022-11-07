@@ -1,7 +1,9 @@
 # Proyecto final del laboratorio de Computación Gráfica e Interacción Humano Computadora
 
 -Profesor: Carlos Aldair Roman Balbuena
+
 -Alumno: Roldán Sánchez Alexis
+
 
 Herramientas usadas:
 -OpenGL
